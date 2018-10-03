@@ -1,0 +1,4 @@
++ @angular/core@5.2.11
+updated 1 package and audited 22309 packages in 19.887s
+found 29 vulnerabilities (3 low, 21 moderate, 5 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
